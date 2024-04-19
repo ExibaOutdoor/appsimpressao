@@ -7,7 +7,7 @@ básica é servir de banco de dados para que facilmente eu ou qualquer outro ope
 dessa empresa possa rapidamente localizar e produzir material para determinada placa sem a necessidade de ir
 a campo para coletas de medidas
 
-Nessa versão final 0.2.5
+##Nessa versão final 0.2.5
 
 - Utilizo Sqlite3 para python por facilidade de portabilidade
 - Preferir pelo uso do Tkinter por ser um biblioteca nativa do python
